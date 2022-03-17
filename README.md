@@ -1,8 +1,8 @@
 - 👋 Hi, I’m David Ferreira!
-- 👀 I’m interested in video games, web development, and all things tech. 
 - 🌱 Obtained a Full stack developer certificate from Rutgers Bootcamp. 
 - 🔭 I’m looking for a full time position as a junior web developer.   
 - 📫 How to reach me : idavidferreira91@gmail.com
+- Currently learning Swift and iOS Development
 
 ### Checkout my stats below!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=disantoz&show_icons=true)<br />
