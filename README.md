@@ -5,9 +5,9 @@
 - Currently learning Swift and iOS Development
 
 ### Checkout my stats below!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=disantoz&show_icons=true)<br />
+![Anurag's GitHub stats](https://github-readme-stats-tawny-mu-51.vercel.app/api?username=disantoz&show_icons=true&theme=dark)<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disantoz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tawny-mu-51.vercel.app/api/top-langs/?username=disantoz&layout=compact&theme=dark&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
