@@ -2,7 +2,7 @@
 - 🌱 Obtained a Full stack developer certificate from Rutgers Bootcamp. 
 - 🔭 I’m looking for a full time position as a junior web developer.   
 - 📫 How to reach me : idavidferreira91@gmail.com
-- Currently learning Swift and iOS Development
+- Currently learning React Native and mobile development
 
 ### Checkout my stats below!
 ![Anurag's GitHub stats](https://github-readme-stats-codestak51.vercel.app/api?username=disantoz&show_icons=true&theme=dark)<br />
