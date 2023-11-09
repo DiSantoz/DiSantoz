@@ -1,7 +1,6 @@
 - 👋 Hi, I’m David Ferreira!
 - 🌱 Obtained a Full stack developer certificate from Rutgers Bootcamp. 
 - 🔭 I’m looking for a full time position as a junior web developer.   
-- 📫 How to reach me : idavidferreira91@gmail.com
 - Currently learning React Native and mobile development
 
 ### Checkout my stats below!
